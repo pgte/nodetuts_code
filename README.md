@@ -1,4 +1,7 @@
-nodetuts_code
-=============
+# NodeTuts Code
 
-Some code for the nodetuts screencasts
+Some source code from when I was preparing / doing the Node Tuts tutorials.
+
+I really don't know if all of it works or not...
+
+
